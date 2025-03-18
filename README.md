@@ -1,7 +1,4 @@
-# mini nas
-
 # características
-
 # Gestión de almacenamiento distribuido:
 Permite la administración centralizada de archivos
 Facilita el acceso remoto a los archivos mediante API REST
